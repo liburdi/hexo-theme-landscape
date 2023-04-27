@@ -1,8 +1,8 @@
-# Landscape
+# Before
 
 A brand new default theme for [Hexo].
 
-- [Preview](https://hexojs.github.io/hexo-theme-landscape/)
+- [Hexo](https://hexo.io/zh-cn/docs/index.html)
 
 ## Installation
 
@@ -11,7 +11,7 @@ A brand new default theme for [Hexo].
 Local git install:
 
 ``` bash
-$ git clone --depth 1 https://github.com/hexojs/hexo-theme-landscape themes/landscape
+$ git clone --depth 1 https://github.com/liburdi/hexo-theme-landscape themes/landscape
 ```
 
 npm install:
@@ -50,6 +50,7 @@ menu:
   Archives: /archives
 rss: /atom.xml
 banner: images/banner.jpg
+github: "http://github.com/liburdi"
 subtitle: This a subtitle
 
 # Content
