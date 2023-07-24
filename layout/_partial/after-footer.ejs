@@ -42,5 +42,9 @@
         avatar:'<%= theme.valine.avatar %>',
         lang:'<%= theme.valine.lang %>'
     });
+    var  uri = window.location.search;
+    if (uri == "?"){
+        window.location.href=uri;
+    }
 </script>
 <% } %>
